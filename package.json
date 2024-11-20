@@ -1,0 +1,11 @@
+{
+  "name": "ulang",
+  "module": "index.ts",
+  "dependencies": {
+    "tailwindcss": "^3.4.11"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "type": "module"
+}
